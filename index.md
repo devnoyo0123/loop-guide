@@ -6,6 +6,8 @@
 
 ## English
 
+⬇ [Download on Google Play](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
+
 ### What Loop is
 
 A journal that brings your past thoughts back. Write what's on your mind, set a loop, and the log comes back to you when you chose.
@@ -98,6 +100,8 @@ For alarms to appear over the lock screen, allow 'full-screen notifications'. Wh
 ---
 
 ## 中文
+
+⬇ [在 Google Play 中下载](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
 
 ### Loop 是什么
 
@@ -192,6 +196,8 @@ For alarms to appear over the lock screen, allow 'full-screen notifications'. Wh
 
 ## Español
 
+⬇ [Descargar en Google Play](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
+
 ### Qué es Loop
 
 Un diario que hace volver tus pensamientos pasados. Escribe lo que piensas, crea un bucle y el registro vuelve cuando tú elijas.
@@ -284,6 +290,8 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 ---
 
 ## हिन्दी
+
+⬇ [Google Play पर डाउनलोड करें](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
 
 ### Loop क्या है
 
@@ -378,6 +386,8 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 
 ## 日本語
 
+⬇ [Google Play でダウンロード](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
+
 ### Loopとは
 
 過ぎた考えをもう一度呼び戻す記録帳です。今の考えを書いてループをかけておくと、決めたときにその記録が戻ってきます。
@@ -470,6 +480,8 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 ---
 
 ## Tiếng Việt
+
+⬇ [Tải xuống trên Google Play](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
 
 ### Loop là gì
 
@@ -564,6 +576,8 @@ Dùng các biểu tượng phía trên. Tìm kiếm theo nội dung và địa �
 
 ## Italiano
 
+⬇ [Scarica su Google Play](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
+
 ### Cos'è Loop
 
 Un diario che fa tornare i tuoi pensieri passati. Scrivi quello che pensi, imposta un loop e la nota torna quando hai scelto.
@@ -656,6 +670,8 @@ Perché gli allarmi compaiano sopra la schermata di blocco, consenti le 'notific
 ---
 
 ## 한국어
+
+⬇ [Google Play에서 다운로드](https://play.google.com/store/apps/details?id=com.devnoyo0123.loop)
 
 ### Loop는 이런 앱이에요
 
