@@ -99,7 +99,7 @@ For alarms to appear over the lock screen, allow 'full-screen notifications'. Wh
 
 ### 11. Search from your computer with Claude
 
-In Settings → PC connection, enter your computer's address and connect. Type the 8-digit code once, and Claude on your computer can search your journal. Logs stay on your phone — only queries and results travel over your Wi-Fi.
+Setup — install the Loop plugin in Claude Code on your computer. Type these two lines in Claude Code: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop. Then just tell Claude "connect my phone" — it gives you the address and an 8-digit code. ① In Settings → PC connection, enter that address and connect ② enter the code and you're connected — it reconnects automatically from then on. Logs stay on your phone; only queries and results travel over your Wi-Fi.
 
 <p>
 <img src="images/en/12_pc.webp" alt="Search from your computer with Claude" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -202,7 +202,7 @@ In Settings → PC connection, enter your computer's address and connect. Type t
 
 ### 11. 在电脑上用 Claude 搜索
 
-在 设置 → PC连接 中输入电脑地址并连接。首次输入 8 位配对码后，电脑上的 Claude 即可搜索你的记录。记录仍保存在手机上，只有查询和结果在局域网内传输。
+准备 — 在电脑的 Claude Code 中安装 Loop 插件。在 Claude Code 中输入这两行：/plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop。然后只需对 Claude 说“连接我的手机”，它就会给你连接地址和 8 位配对码。① 在 设置 → PC连接 中输入该地址并连接 ② 输入配对码即完成连接 — 之后会自动重连。记录仍保存在手机上，只有查询和结果在局域网内传输。
 
 <p>
 <img src="images/zh/12_pc.webp" alt="在电脑上用 Claude 搜索" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -305,7 +305,7 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 
 ### 11. Busca con Claude desde tu PC
 
-En Ajustes → Conexión con PC, introduce la dirección de tu ordenador y conéctate. Tras introducir una vez el código de 8 dígitos, Claude en tu PC podrá buscar en tu diario. Tus registros se quedan en el móvil: solo la búsqueda viaja por tu Wi-Fi.
+Preparación — instala el plugin de Loop en Claude Code de tu ordenador. Escribe estas dos líneas en Claude Code: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop. Luego solo dile a Claude «conecta mi teléfono»: te dará la dirección y un código de 8 dígitos. ① En Ajustes → Conexión con PC, introduce esa dirección y conéctate ② introduce el código y quedarás conectado — a partir de ahí se reconecta automáticamente. Tus registros se quedan en el móvil: solo la búsqueda viaja por tu Wi-Fi.
 
 <p>
 <img src="images/es/12_pc.webp" alt="Busca con Claude desde tu PC" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -408,7 +408,7 @@ En Ajustes → Conexión con PC, introduce la dirección de tu ordenador y coné
 
 ### 11. अपने PC से Claude द्वारा खोजें
 
-सेटिंग्स → PC कनेक्शन में अपने कंप्यूटर का पता डालकर कनेक्ट करें। एक बार 8-अंकों का कोड डालने पर आपके कंप्यूटर का Claude आपकी डायरी खोज सकता है। डायरी फ़ोन पर ही रहती है — केवल क्वेरी और परिणाम Wi-Fi पर चलते हैं।
+सेटअप — अपने कंप्यूटर के Claude Code में Loop प्लगइन इंस्टॉल करें। Claude Code में ये दो लाइनें टाइप करें: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop। फिर बस Claude से कहें «मेरा फ़ोन कनेक्ट करो» — वह पता और 8-अंकों का कोड देगा। ① सेटिंग्स → PC कनेक्शन में वह पता डालकर कनेक्ट करें ② कोड डालें और कनेक्शन पूरा — अब से यह अपने आप दोबारा जुड़ जाएगा। डायरी फ़ोन पर ही रहती है — केवल क्वेरी और परिणाम Wi-Fi पर चलते हैं।
 
 <p>
 <img src="images/hi/12_pc.webp" alt="अपने PC से Claude द्वारा खोजें" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -511,7 +511,7 @@ En Ajustes → Conexión con PC, introduce la dirección de tu ordenador y coné
 
 ### 11. PCのClaudeで検索
 
-設定 → PC接続 でPCのアドレスを入力して接続。最初の1回だけ8桁のコードを入力すると、PCのClaudeが記録を検索してくれます。記録はスマホに残ったまま、検索だけが同じWi-Fi内で行われます。
+準備 — パソコンのClaude CodeにLoopプラグインをインストールします。Claude Codeで次の2行を入力: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop。あとはClaudeに「スマホを接続して」と言えば、接続アドレスと8桁のコードを教えてくれます。① 設定 → PC接続 でそのアドレスを入力して接続 ② コードを入力すれば接続完了 — 以後は自動で再接続されます。記録はスマホに残ったまま、検索だけが同じWi-Fi内で行われます。
 
 <p>
 <img src="images/ja/12_pc.webp" alt="PCのClaudeで検索" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -614,7 +614,7 @@ Dùng các biểu tượng phía trên. Tìm kiếm theo nội dung và địa �
 
 ### 11. Tìm kiếm bằng Claude trên máy tính
 
-Trong Cài đặt → Kết nối PC, nhập địa chỉ máy tính và kết nối. Chỉ cần nhập mã 8 chữ số một lần, Claude trên máy tính có thể tìm nhật ký của bạn. Nhật ký vẫn nằm trên điện thoại — chỉ câu hỏi và kết quả đi qua Wi-Fi.
+Chuẩn bị — cài plugin Loop vào Claude Code trên máy tính. Nhập hai dòng sau trong Claude Code: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop. Sau đó chỉ cần nói với Claude «kết nối điện thoại của tôi» — nó sẽ cho bạn địa chỉ và mã 8 chữ số. ① Trong Cài đặt → Kết nối PC, nhập địa chỉ đó và kết nối ② nhập mã là xong — từ đó tự động kết nối lại. Nhật ký vẫn nằm trên điện thoại — chỉ câu hỏi và kết quả đi qua Wi-Fi.
 
 <p>
 <img src="images/vi/12_pc.webp" alt="Tìm kiếm bằng Claude trên máy tính" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -717,7 +717,7 @@ Perché gli allarmi compaiano sopra la schermata di blocco, consenti le 'notific
 
 ### 11. Cerca con Claude dal tuo PC
 
-In Impostazioni → Connessione al PC, inserisci l'indirizzo del computer e connettiti. Dopo aver inserito una volta il codice di 8 cifre, Claude sul tuo PC potrà cercare nel tuo diario. I diari restano sul telefono: solo query e risultati viaggiano nella tua Wi-Fi.
+Preparazione — installa il plugin Loop in Claude Code sul tuo computer. Digita queste due righe in Claude Code: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop. Poi basta dire a Claude «collega il mio telefono»: ti darà l'indirizzo e un codice di 8 cifre. ① In Impostazioni → Connessione al PC, inserisci quell'indirizzo e connettiti ② inserisci il codice e sei connesso — da allora si riconnette automaticamente. I diari restano sul telefono: solo query e risultati viaggiano nella tua Wi-Fi.
 
 <p>
 <img src="images/it/12_pc.webp" alt="Cerca con Claude dal tuo PC" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
@@ -820,7 +820,7 @@ In Impostazioni → Connessione al PC, inserisci l'indirizzo del computer e conn
 
 ### 11. PC에서 Claude로 검색
 
-설정 → PC 연결에서 컴퓨터 주소를 입력하고 연결하세요. 최초 1회 8자리 코드를 입력하면, PC의 Claude가 내 기록을 검색해 줍니다. 기록은 폰에 그대로 있고, 검색 질의와 결과만 같은 Wi-Fi 안에서 오갑니다.
+준비 — 컴퓨터의 Claude Code에 Loop 플러그인을 설치합니다. Claude Code에서 다음 두 줄을 입력하세요: /plugin marketplace add devnoyo0123/loop-skill → /plugin install loop@loop. 그다음 Claude에게 "폰 연결해줘"라고 말하면 연결 주소와 8자리 코드를 알려줍니다. ① 설정 → PC 연결에서 그 주소를 입력하고 연결 ② 코드를 입력하면 연결 완료 — 이후에는 자동으로 다시 연결됩니다. 기록은 폰에 그대로 있고, 검색 질의와 결과만 같은 Wi-Fi 안에서 오갑니다.
 
 <p>
 <img src="images/ko/12_pc.webp" alt="PC에서 Claude로 검색" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
