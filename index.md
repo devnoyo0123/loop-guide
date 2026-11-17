@@ -97,6 +97,14 @@ For alarms to appear over the lock screen, allow 'full-screen notifications'. Wh
 <img src="images/en/11_alarm.webp" alt="Let alarms show on screen" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
+### 11. Search from your computer with Claude
+
+In Settings → PC connection, enter your computer's address and connect. Type the 8-digit code once, and Claude on your computer can search your journal. Logs stay on your phone — only queries and results travel over your Wi-Fi.
+
+<p>
+<img src="images/en/12_pc.webp" alt="Search from your computer with Claude" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
 ---
 
 ## 中文
@@ -190,6 +198,14 @@ For alarms to appear over the lock screen, allow 'full-screen notifications'. Wh
 <p>
 <img src="images/zh/10_alarm_permission.webp" alt="让闹钟显示在屏幕上" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 <img src="images/zh/11_alarm.webp" alt="让闹钟显示在屏幕上" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
+### 11. 在电脑上用 Claude 搜索
+
+在 设置 → PC连接 中输入电脑地址并连接。首次输入 8 位配对码后，电脑上的 Claude 即可搜索你的记录。记录仍保存在手机上，只有查询和结果在局域网内传输。
+
+<p>
+<img src="images/zh/12_pc.webp" alt="在电脑上用 Claude 搜索" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
 ---
@@ -287,6 +303,14 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 <img src="images/es/11_alarm.webp" alt="Que las alarmas aparezcan en pantalla" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
+### 11. Busca con Claude desde tu PC
+
+En Ajustes → Conexión con PC, introduce la dirección de tu ordenador y conéctate. Tras introducir una vez el código de 8 dígitos, Claude en tu PC podrá buscar en tu diario. Tus registros se quedan en el móvil: solo la búsqueda viaja por tu Wi-Fi.
+
+<p>
+<img src="images/es/12_pc.webp" alt="Busca con Claude desde tu PC" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
 ---
 
 ## हिन्दी
@@ -380,6 +404,14 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 <p>
 <img src="images/hi/10_alarm_permission.webp" alt="अलार्म स्क्रीन पर दिखाएं" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 <img src="images/hi/11_alarm.webp" alt="अलार्म स्क्रीन पर दिखाएं" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
+### 11. अपने PC से Claude द्वारा खोजें
+
+सेटिंग्स → PC कनेक्शन में अपने कंप्यूटर का पता डालकर कनेक्ट करें। एक बार 8-अंकों का कोड डालने पर आपके कंप्यूटर का Claude आपकी डायरी खोज सकता है। डायरी फ़ोन पर ही रहती है — केवल क्वेरी और परिणाम Wi-Fi पर चलते हैं।
+
+<p>
+<img src="images/hi/12_pc.webp" alt="अपने PC से Claude द्वारा खोजें" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
 ---
@@ -477,6 +509,14 @@ Para que las alarmas aparezcan sobre la pantalla de bloqueo, permite las 'notifi
 <img src="images/ja/11_alarm.webp" alt="アラームを画面に表示する" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
+### 11. PCのClaudeで検索
+
+設定 → PC接続 でPCのアドレスを入力して接続。最初の1回だけ8桁のコードを入力すると、PCのClaudeが記録を検索してくれます。記録はスマホに残ったまま、検索だけが同じWi-Fi内で行われます。
+
+<p>
+<img src="images/ja/12_pc.webp" alt="PCのClaudeで検索" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
 ---
 
 ## Tiếng Việt
@@ -570,6 +610,14 @@ Dùng các biểu tượng phía trên. Tìm kiếm theo nội dung và địa �
 <p>
 <img src="images/vi/10_alarm_permission.webp" alt="Cho báo thức hiện trên màn hình" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 <img src="images/vi/11_alarm.webp" alt="Cho báo thức hiện trên màn hình" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
+### 11. Tìm kiếm bằng Claude trên máy tính
+
+Trong Cài đặt → Kết nối PC, nhập địa chỉ máy tính và kết nối. Chỉ cần nhập mã 8 chữ số một lần, Claude trên máy tính có thể tìm nhật ký của bạn. Nhật ký vẫn nằm trên điện thoại — chỉ câu hỏi và kết quả đi qua Wi-Fi.
+
+<p>
+<img src="images/vi/12_pc.webp" alt="Tìm kiếm bằng Claude trên máy tính" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
 ---
@@ -667,6 +715,14 @@ Perché gli allarmi compaiano sopra la schermata di blocco, consenti le 'notific
 <img src="images/it/11_alarm.webp" alt="Far apparire gli allarmi sullo schermo" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
+### 11. Cerca con Claude dal tuo PC
+
+In Impostazioni → Connessione al PC, inserisci l'indirizzo del computer e connettiti. Dopo aver inserito una volta il codice di 8 cifre, Claude sul tuo PC potrà cercare nel tuo diario. I diari restano sul telefono: solo query e risultati viaggiano nella tua Wi-Fi.
+
+<p>
+<img src="images/it/12_pc.webp" alt="Cerca con Claude dal tuo PC" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
 ---
 
 ## 한국어
@@ -760,6 +816,14 @@ Perché gli allarmi compaiano sopra la schermata di blocco, consenti le 'notific
 <p>
 <img src="images/ko/10_alarm_permission.webp" alt="알람이 화면에 뜨게 하기" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 <img src="images/ko/11_alarm.webp" alt="알람이 화면에 뜨게 하기" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
+</p>
+
+### 11. PC에서 Claude로 검색
+
+설정 → PC 연결에서 컴퓨터 주소를 입력하고 연결하세요. 최초 1회 8자리 코드를 입력하면, PC의 Claude가 내 기록을 검색해 줍니다. 기록은 폰에 그대로 있고, 검색 질의와 결과만 같은 Wi-Fi 안에서 오갑니다.
+
+<p>
+<img src="images/ko/12_pc.webp" alt="PC에서 Claude로 검색" width="260" style="border-radius:12px;border:1px solid #2a2f3d;margin:4px">
 </p>
 
 ---
